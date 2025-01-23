@@ -99,7 +99,7 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=devpedrosena1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+<br/>
   <img 
     align="left" 
     alt="GitHub Stats" 
