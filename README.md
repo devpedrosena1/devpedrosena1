@@ -19,21 +19,21 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
             src="https://custom-icon-badges.demolab.com/github/followers/devpedrosena1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab">
+    <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/">
         <img 
             alt="Perfil no LinkedIn" 
-            title="Me conecte no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar%21-blue?style=for-the-badge&logo=linkedin"
+            title="Meu perfil no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"
         />
     </a>
-    <a href="https://www.youtube.com/@seu-canal">
+    <a href="https://www.youtube.com/@sena_fxl">
         <img 
             alt="Inscritos no YouTube" 
             title="Se inscreva no meu canal do YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/seu-canal-id?color=FF0000&style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos"
         />
     </a>
-    <a href="https://www.youtube.com/@seu-canal">
+    <a href="https://www.youtube.com/@sena_fxl">
         <img 
             alt="Visualizações no YouTube" 
             title="Visualizações no YouTube" 
