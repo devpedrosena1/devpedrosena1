@@ -5,42 +5,30 @@
 Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo capital. Sou Técnico em Informática para Internet, onde cursei juntamente com o ensimo médio pela ETEC São Mateus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela FIAP. Desde os meus 14 anos tenho interesse sobre tecnologia, e fiz disso o meu grande sonho. 
 
 <p align="left">
-    <a href="https://github.com/devpedrosena1">
+    <!-- GitHub -->
+    <a href="https://github.com/devpedrosena1" target="_blank">
         <img 
-            alt="Total de estrelas no GitHub" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/devpedrosena1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://github.com/devpedrosena1">
+    <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
         <img 
-            alt="Seguidores no GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/devpedrosena1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/">
+    <a href="https://www.youtube.com/@sena_fxl" target="_blank">
         <img 
-            alt="Perfil no LinkedIn" 
-            title="Meu perfil no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"
-        />
-    </a>
-    <a href="https://www.youtube.com/@sena_fxl">
-        <img 
-            alt="Inscritos no YouTube" 
-            title="Se inscreva no meu canal do YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/seu-canal-id?color=FF0000&style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos"
-        />
-    </a>
-    <a href="https://www.youtube.com/@sena_fxl">
-        <img 
-            alt="Visualizações no YouTube" 
-            title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/seu-canal-id?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&label=Visualizações"
+            alt="YouTube" 
+            title="Meu YouTube" 
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
 </p>
+
 
 
 ---
