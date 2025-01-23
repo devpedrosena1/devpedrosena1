@@ -19,7 +19,7 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
             src="https://custom-icon-badges.demolab.com/github/followers/devpedrosena1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-linkedin/">
+    <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab">
         <img 
             alt="Perfil no LinkedIn" 
             title="Me conecte no LinkedIn" 
