@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Pedro Henrique Sena
+# 👨‍💻 Pedro Henrique Sena
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo capital. Sou Técnico em Informática para Internet, onde cursei juntamente com o ensimo médio pela ETEC São Mateus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela FIAP. Desde os meus 14 anos tenho interesse sobre tecnologia, e fiz disso o meu grande sonho. 
+Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo, capital. Sou Técnico em Informática para Internet, onde cursei juntamente com o ensino médio pela ETEC São Mateus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela FIAP. Desde os meus 14 anos tenho interesse em tecnologia e fiz disso o meu grande sonho. 
 
 <p align="left">
     <!-- GitHub -->
@@ -13,13 +13,15 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <!-- YouTube -->
     <a href="https://www.youtube.com/@sena_fxl" target="_blank">
         <img 
             alt="YouTube" 
@@ -28,8 +30,6 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
         />
     </a>
 </p>
-
-
 
 ---
 
@@ -87,6 +87,8 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -95,14 +97,13 @@ Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=devpedrosena1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
