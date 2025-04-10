@@ -2,7 +2,10 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Pedro Henrique Sena, tenho 19 anos e sou nascido e criado em São Paulo, capital. Sou Técnico em Informática para Internet, onde cursei juntamente com o ensino médio pela ETEC São Mateus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela FIAP. Desde os meus 14 anos tenho interesse em tecnologia e fiz disso o meu grande sonho. 
+👋 Olá! Me chamo Pedro Henrique Sena, tenho 19 anos e sou de São Paulo, capital.
+Sou Técnico em Informática para Internet formado pela ETEC São Mateus, onde cursei junto ao ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+
+Desde os 14 anos sou apaixonado por tecnologia, e hoje sigo firme no objetivo de transformar essa paixão em carreira. Busco constantemente aprender, criar projetos práticos e evoluir como desenvolvedor.
 
 <p align="left">
     <!-- GitHub -->
