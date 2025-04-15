@@ -118,3 +118,5 @@ Desde os 14 anos sou apaixonado por tecnologia, e hoje sigo firme no objetivo de
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br>
