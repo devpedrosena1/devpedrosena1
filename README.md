@@ -102,6 +102,15 @@ Desde os 14 anos sou apaixonado por tecnologia, e hoje sigo firme no objetivo de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+/>
+
 
 <br/>
 <br/>
