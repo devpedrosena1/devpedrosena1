@@ -72,6 +72,14 @@ Desde os 14 anos sou apaixonado por tecnologia, e hoje sigo firme no objetivo de
 />
 <img 
     align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
