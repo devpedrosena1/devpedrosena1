@@ -15,7 +15,7 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ### 🧰 Tecnologias que estudo e utilizo
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" />
@@ -24,22 +24,18 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="35" />
   
 </p>
 
 ---
 
-### 📌 O que ando criando
+### 📌 O que ando criando  
 
-> "A melhor forma de aprender é botando pra funcionar."  
+> Projetos que já desenvolvi:
 
-Atualmente, estou envolvido em projetos como:
-
-- 🚉 **Simulador de horários de pico** (Java + Python + BD)
-- 🌞 **Plataforma de energia sustentável** com recompensas em cripto
-- 🌐 **Sites institucionais** para empresas e ideias pessoais
-- 📊 **APIs e CRUDs** com integração frontend/backend
+- 🚉 **Future Station** (Java + Python + BD + IA)
+- 🌞 **SolarCash** com recompensas em cripto
+- 🌐 **Somos+** > 
 
 ---
 
