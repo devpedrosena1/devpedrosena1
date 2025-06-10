@@ -33,10 +33,11 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 > Projetos que já desenvolvi:
 
-- 🚉 **Future Station** (Java + Python + BD + IA)
-- 🌞 **SolarCash** com recompensas em cripto
-- 🌐 **Somos+** > 
+- 🚉 **Future Station** > https://github.com/ChallengeCCR1
+- Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.
 
+- 🌐 **Somos+** > https://github.com/SomosMais
+- Projeto voltado para juntar pessoas que passam por situações de vulnerabilidade com empresas e ONGs que possam ajudar.
 ---
 
 ### 📊 GitHub Stats
@@ -51,22 +52,35 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 ### 🌎 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/devpedrosena1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-devpedrosena1-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro_H_Sena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@sena_fxl" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-Sena_FXL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+    <!-- GitHub -->
+    <a href="https://github.com/devpedrosena1" target="_blank">
+      <img 
+        alt="GitHub" 
+        title="Meu GitHub" 
+        src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"
+      />
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <!-- YouTube -->
+    <a href="https://www.youtube.com/@sena_fxl" target="_blank">
+        <img 
+            alt="YouTube" 
+            title="Meu YouTube" 
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### ✨ Objetivo
-
-> Ser um dev completo e humano, que transforma ideias em soluções com código, consistência e propósito.
+> Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
 
 ---
 
