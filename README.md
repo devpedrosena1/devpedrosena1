@@ -3,9 +3,9 @@
 <p align="center">💡 Estudante de ADS | Técnico em Informática | Apaixonado por Código</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Idade-19%20anos-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cidade-São%20Paulo-SP-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Faculdade-FIAP-black?style=flat-square" />
+  <a href="https://www.fiap.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Faculdade-FIAP-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABNVBMVEUAAAB8fHz////k5OTd3d3y8vL8/PzZ2dnAwMCcnJyjo6O3t7efn59wcHDm5ubp6enq6uq9vb3IyMjl5eW/v7/v7+/s7Ozp6em6urp1dXWxsbG+vr6Hh4epqam3t7eo6Ojh4eGhoaG1tbW2traLi4umpoanp6fDw8PLy8t3d3fHx8e/v7+Xl5ezs7NHR0czMzMzMzMzc3NyoqKjQ0NAXFxeVlZXJyckAAACjo6N+fn7Z2dk8PDz39/f19fXx8fGtq6w2NjbIyMjg4OCpqam/v79aWlozMzNfX1+Tk5Pb29s/Pz9sbGxKSkoWFhYvLy/8/NMnJycrKytrbG1FRUXV1dUTExOXl5fQ0NCqqqqHh4fGxsZ1dXWAgIAAAACUlJSDg4NkZGRPT0+hoaEWFhYZGRlSUlJUVE2NAAABTUlEQVQYGX1Q5XKDIBCcZztbiIKIfJLEltbX///uvjWv7ntowUIm4J+L+oFV6I1b8aA1TyCQgyLkwCQMRMxE55sjU3HM+MgMRqOpAy7TeAxY1T8k1TAorF0MQy0T8GbGkRQkZInJydgCGAS2XBKSypxMfscHKw0JVGp4l7byBFVW8yyJkZja2U+PeJvG2kFjRZAvIoBI5pItRlo2tQlCkI9yo+Pq1oZCLAhVnQXAZ3eOjo4H/3cfbPP3UHF/ArMDArK1spFwAAAAASUVORK5CYII=" />
+  </a>
 </p>
 
 ---
