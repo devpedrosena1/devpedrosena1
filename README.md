@@ -2,12 +2,6 @@
 
 <p align="center">💡 Estudante de ADS | Técnico em Informática | Apaixonado por Código</p>
 
-<p align="center">
-  <a href="https://www.fiap.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/FIAP-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABNVBMVEUAAAB8fHz////k5OTd3d3y8vL8/PzZ2dnAwMCcnJyjo6O3t7efn59wcHDm5ubp6enq6uq9vb3IyMjl5eW/v7/v7+/s7Ozp6em6urp1dXWxsbG+vr6Hh4epqam3t7eo6Ojh4eGhoaG1tbW2traLi4umpoanp6fDw8PLy8t3d3fHx8e/v7+Xl5ezs7NHR0czMzMzMzMzc3NyoqKjQ0NAXFxeVlZXJyckAAACjo6N+fn7Z2dk8PDz39/f19fXx8fGtq6w2NjbIyMjg4OCpqam/v79aWlozMzNfX1+Tk5Pb29s/Pz9sbGxKSkoWFhYvLy/8/NMnJycrKytrbG1FRUXV1dUTExOXl5fQ0NCqqqqHh4fGxsZ1dXWAgIAAAACUlJSDg4NkZGRPT0+hoaEWFhYZGRlSUlJUVE2NAAABTUlEQVQYGX1Q5XKDIBCcZztbiIKIfJLEltbX///uvjWv7ntowUIm4J+L+oFV6I1b8aA1TyCQgyLkwCQMRMxE55sjU3HM+MgMRqOpAy7TeAxY1T8k1TAorF0MQy0T8GbGkRQkZInJydgCGAS2XBKSypxMfscHKw0JVGp4l7byBFVW8yyJkZja2U+PeJvG2kFjRZAvIoBI5pItRlo2tQlCkI9yo+Pq1oZCLAhVnQXAZ3eOjo4H/3cfbPP3UHF/ArMDArK1spFwAAAAASUVORK5CYII=" />
-  </a>
-</p>
-
 ---
 
 ### 👋 Sobre mim
@@ -30,7 +24,8 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle DB" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="35" />
+  
 </p>
 
 ---
