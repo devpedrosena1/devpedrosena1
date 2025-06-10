@@ -13,7 +13,7 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ---
 
-### 🧰 Tecnologias que estudo e utilizo
+<h1 align="center"> 🧰 Tecnologias que estudo e utilizo</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" />
