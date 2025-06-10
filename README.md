@@ -10,11 +10,11 @@ Desde os 14 anos sou apaixonado por tecnologia, e hoje sigo firme no objetivo de
 <p align="left">
     <!-- GitHub -->
     <a href="https://github.com/devpedrosena1" target="_blank">
-        <img 
-            alt="GitHub" 
-            title="Meu GitHub" 
-            src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"
-        />
+      <img 
+        alt="GitHub" 
+        title="Meu GitHub" 
+        src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"
+      />
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/" target="_blank">
