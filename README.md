@@ -79,6 +79,6 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ---
 
-> 💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando)..
+> 💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
 
 ---
