@@ -44,11 +44,11 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 - 🚉 **Future Station**  
   <a href="https://github.com/ChallengeCCR1" target="_blank">github.com/ChallengeCCR1</a>  
-  Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.
+  # Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.
 
 - 🌐 **Somos+**  
   <a href="https://github.com/SomosMais" target="_blank">github.com/SomosMais</a>  
-  Projeto voltado para juntar pessoas que passam por situações de vulnerabilidade com empresas e ONGs que possam ajudar.
+  # Projeto voltado para juntar pessoas que passam por situações de vulnerabilidade com empresas e ONGs que possam ajudar.
 
 ---
 
@@ -77,6 +77,6 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ---
 
-> 💻 Transformando café em código — com propósito, criatividade e bom humor.
+> 💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando)..
 
 ---
