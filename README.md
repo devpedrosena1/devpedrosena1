@@ -43,12 +43,14 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 > Projetos que já desenvolvi:
 
 # 🚉 **Future Station**  
-  <a href="https://github.com/ChallengeCCR1" target="_blank">github.com/ChallengeCCR1</a>  
+  
   ### Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.
+  <strong><a href="https://github.com/ChallengeCCR1" target="_blank">github.com/ChallengeCCR1</a></strong>
 
 # 🌐 **Somos+**  
-  <strong><a href="https://github.com/SomosMais" target="_blank">github.com/SomosMais</a></strong>
+  
   ### Projeto voltado para juntar pessoas que passam por situações de vulnerabilidade com empresas e ONGs que possam ajudar.
+  <strong><a href="https://github.com/SomosMais" target="_blank">github.com/SomosMais</a></strong>
 
 ---
 
