@@ -3,9 +3,10 @@
 </p>
 
 <p align="center" width="400px">
-  <strong>💡 Estudante de Análise e Desenvolvimento de Sistemas</strong> &nbsp;|&nbsp; 
   <strong>Suporte</strong> &nbsp;|&nbsp; 
-  <strong>Java</strong>
+  <strong>Java</strong> &nbsp;|&nbsp; 
+  <strong>Spring Boot</strong> &nbsp;|&nbsp; 
+  <strong>Python</strong> &nbsp;|&nbsp; 
 </p>
 
 ---
