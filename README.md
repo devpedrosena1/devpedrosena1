@@ -3,15 +3,9 @@
 </p>
 
 <p align="center" width="400px">
-  <strong>💡 Estudante de ADS</strong> &nbsp;|&nbsp; 
-  <strong>Técnico em Informática</strong> &nbsp;|&nbsp; 
-  <strong>Apaixonado por Código</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.fiap.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/FIAP-EA1D2C?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+  <strong>💡 Estudante de Análise e Desenvolvimento de Sistemas</strong> &nbsp;|&nbsp; 
+  <strong>Suporte</strong> &nbsp;|&nbsp; 
+  <strong>Java</strong>
 </p>
 
 ---
