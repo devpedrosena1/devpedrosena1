@@ -3,10 +3,11 @@
 </p>
 
 <p align="center" width="400px">
-  <strong>Suporte</strong> &nbsp;|&nbsp; 
   <strong>Java</strong> &nbsp;|&nbsp; 
   <strong>Spring Boot</strong> &nbsp;|&nbsp; 
   <strong>Python</strong> &nbsp;|&nbsp; 
+  <strong>Flask</strong>
+  <strong>Suporte</strong> &nbsp;|&nbsp; 
 </p>
 
 ---
