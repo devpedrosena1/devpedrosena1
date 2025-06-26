@@ -36,8 +36,6 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ### 🛠️ O que ando criando  
 
-> Projetos que já desenvolvi:
-
 # 🚉 **Future Station**  
   
   ### Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.
@@ -75,6 +73,6 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ---
 
-> 💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
+- 💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
 
 ---
