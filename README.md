@@ -1,6 +1,5 @@
-<h1 align="center">👨‍💻 Pedro Henrique Sena</h1>
 <p align="center">
-  <img src="img.png" alt="Imagem" width="500"/>
+  <img src="img.png" alt="Imagem" width="100%"/>
 </p>
 
 <p align="center">
