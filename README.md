@@ -2,7 +2,7 @@
   <img src="img.png" alt="Imagem" width="100%"/>
 </p>
 
-<p align="center">
+<p align="center" width="400px">
   <strong>💡 Estudante de ADS</strong> &nbsp;|&nbsp; 
   <strong>Técnico em Informática</strong> &nbsp;|&nbsp; 
   <strong>Apaixonado por Código</strong>
