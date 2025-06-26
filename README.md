@@ -1,4 +1,5 @@
 <h1 align="center">👨‍💻 Pedro Henrique Sena</h1>
+<img src="img.png" alt="Imagem" width="300"/>
 
 <p align="center">
   <strong>💡 Estudante de ADS</strong> &nbsp;|&nbsp; 
