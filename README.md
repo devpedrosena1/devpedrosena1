@@ -2,77 +2,54 @@
   <img src="img.png" alt="Imagem" width="100%"/>
 </p>
 
-<p align="center" width="400px">
-  <strong>Java</strong> &nbsp;|&nbsp; 
-  <strong>Spring Boot</strong> &nbsp;|&nbsp; 
-  <strong>Python</strong> &nbsp;|&nbsp; 
-  <strong>Flask</strong> &nbsp;|&nbsp; 
-  <strong>Suporte</strong> 
-</p>
+**Java** • **Spring Boot** • **Python** • **Flask** • **Suporte**
 
 ---
 
 ### 👋 Sobre mim
 
 Sou o Pedro! Tenho 19 anos, moro em São Paulo - SP e estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**.  
-Me formei como **Técnico em Informática para Internet** pela ETEC São Mateus e, desde os 14 anos, vivo com a cabeça na tecnologia 🚀.
+Me formei como **Técnico em Informática para Internet** pela ETEC São Mateus e, desde os 14 anos, vivo com a cabeça na tecnologia 🚀
 
 Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foco hoje é crescer como desenvolvedor full stack, unindo boas práticas, performance e criatividade.
 
 ---
 
-<h2 align="center">🧰 Tecnologias que estudo e utilizo</h2>
+### 🧰 Tecnologias que estudo e utilizo
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" />
 
 ---
 
-### 🛠️ O que ando criando  
+### 🛠️ O que ando criando
 
-# 🚉 **Future Station**  
-  
-  ### Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.
-  <strong><a href="https://github.com/ChallengeCCR1" target="_blank">github.com/ChallengeCCR1</a></strong>
+#### 🚉 Future Station  
+Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.  
+🔗 [github.com/ChallengeCCR1](https://github.com/ChallengeCCR1)
 
-# 🌐 **Somos+**  
-  
-  ### Projeto voltado para juntar pessoas que passam por situações de vulnerabilidade com empresas e ONGs que possam ajudar.
-  <strong><a href="https://github.com/SomosMais" target="_blank">github.com/SomosMais</a></strong>
+#### 🌐 Somos+  
+Projeto que conecta pessoas em situação de vulnerabilidade com empresas e ONGs que possam ajudar.  
+🔗 [github.com/SomosMais](https://github.com/SomosMais)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
 
 ---
 
 ### 🌎 Onde me encontrar
 
-<p align="center">
-  <a href="https://github.com/devpedrosena1" target="_blank">
-    <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/" target="_blank">
-    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@sena_fxl" target="_blank">
-    <img alt="YouTube" title="Meu YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devpedrosena1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sena_fxl)
 
 ---
 
-- 💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
-
----
+💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
