@@ -22,7 +22,7 @@
 
 <h2 align="center">👋 Sobre mim</h2>
 
-<table align="center" width="100%" style="border: 2px solid #007acc; border-radius: 10px;">
+<table align="center" width="100%" style="border: 10px solid #007acc; border-radius: 10px;">
   <tr>
     <td width="100%" style="text-align: left; padding: 10px;">
 
