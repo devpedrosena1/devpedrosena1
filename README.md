@@ -4,13 +4,17 @@
 
 <h1 align="center">Java • Spring Boot • Python • SQL</h1>
 
----
-
-### 🌎 Onde me encontrar
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devpedrosena1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sena.fxl)
+<p align="center">
+  <a href="https://github.com/devpedrosena1">
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sena.fxl">
+    <img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -23,35 +27,58 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ---
 
-<h1 align="center">Tecnologias que estudo e utilizo</h1>
+<h2 align="center">🧰 Tecnologias que estudo e utilizo</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
 </p>
 
 ---
 
-### 🛠️ O que ando criando
+<h2 align="center">🚧 Projetos em Destaque</h2>
 
-#### 🚉 Future Station  
-Projeto voltado para analisar horários de pico em estações das linhas 4, 8 e 9 do metrô de São Paulo.  
-🔗 [github.com/ChallengeCCR1](https://github.com/ChallengeCCR1)
+<div align="center">
 
-#### 🌐 Somos+  
-Projeto que conecta pessoas em situação de vulnerabilidade com empresas e ONGs que possam ajudar.  
-🔗 [github.com/SomosMais](https://github.com/SomosMais)
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <h3>🚉 Future Station</h3>
+      <p>
+        Análise de horários de pico nas linhas 4, 8 e 9 do metrô de São Paulo.<br><br>
+        <a href="https://github.com/ChallengeCCR1">
+          <img src="https://img.shields.io/badge/Ver no GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="45%">
+      <h3>🌐 Somos+</h3>
+      <p>
+        Plataforma que conecta pessoas em vulnerabilidade com empresas e ONGs.<br><br>
+        <a href="https://github.com/SomosMais">
+          <img src="https://img.shields.io/badge/Ver no GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
+</p>
 
 ---
 
-💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
+<p align="center">
+  💻 Codando com propósito, aprendendo com café e vivendo sem bug (ou tentando).
+</p>
