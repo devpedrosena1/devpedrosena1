@@ -38,7 +38,7 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
 
 ---
 
-<h2 align="center">🧰 HARD SKILLS</h2>
+<h2 align="center">🧰 Hard Skills</h2>
 
 <p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50"/>
@@ -51,7 +51,7 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
 
 ---
 
-<h2 align="center">🚀 ÚLTIMOS PROJETOS</h2>
+<h2 align="center">🚀 Últimos Projetos</h2>
 
 <div align="center">
 
