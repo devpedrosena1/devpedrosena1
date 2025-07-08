@@ -44,8 +44,10 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
+  <img src="https://img.icons8.com/color/512/spring-logo.png" title="Spring" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="Sql" width="50"/>
+  
 </p>
 
 ---
