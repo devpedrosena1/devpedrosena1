@@ -2,7 +2,7 @@
   <img src="img.png" alt="Imagem" width="100%"/>
 </p>
 
-<h1 align="center">Java • Spring Boot • Python • SQL</h1>
+<h2 align="center">Java  •  Spring Boot  •  Python  •  SQL</h2>
 
 <p align="center">
   <a href="https://github.com/devpedrosena1">
@@ -16,7 +16,6 @@
   </a>
 </p>
 
----
 
 ### 👋 Sobre mim
 
@@ -25,7 +24,6 @@ Me formei como **Técnico em Informática para Internet** pela ETEC São Mateus 
 
 Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foco hoje é crescer como desenvolvedor full stack, unindo boas práticas, performance e criatividade.
 
----
 
 <h2 align="center">🧰 Tecnologias que estudo e utilizo</h2>
 
@@ -38,7 +36,6 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
 </p>
 
----
 
 <h2 align="center">🚧 Projetos em Destaque</h2>
 
@@ -68,8 +65,6 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 </table>
 
 </div>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
