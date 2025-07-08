@@ -22,15 +22,15 @@
 
 <h2 align="center">👋 Sobre mim</h2>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: 2px solid #007acc; border-radius: 10px;">
   <tr>
     <td width="100%" style="text-align: left; padding: 10px;">
 
-Sou o Pedro! Tenho 19 anos, moro em São Paulo - SP e estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**.  
-Me formei como **Técnico em Informática para Internet** pela ETEC São Mateus e, desde os 14 anos, vivo com a cabeça na tecnologia 🚀
+Sou o Pedro, tenho 19 anos e sou de São Paulo - SP. Atualmente estou em jornada para me tornar um desenvolvedor backend, mais voltado para a linguagem Java, e explorando cada vez mais o universo da programação e da tecnologia.
 
-Gosto de criar, testar, errar, aprender e **colocar a mão no código**.  
-Meu foco hoje é crescer como desenvolvedor full stack, unindo boas práticas, performance e criatividade.
+Desde os 15 anos, mergulhei nesse mundo com curiosidade e vontade de aprender. Hoje, busco construir soluções que unam boas práticas, performance e criatividade.
+
+Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo é crescer na área, contribuindo com projetos que façam a diferença — sempre com propósito e paixão pelo que faço. 🚀
 
   </td>
   </tr>
