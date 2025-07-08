@@ -2,7 +2,15 @@
   <img src="img.png" alt="Imagem" width="100%"/>
 </p>
 
-**Java** • **Spring Boot** • **Python** • **SQL**
+<h1 align="center">Java • Spring Boot • Python • SQL</h1>
+
+---
+
+### 🌎 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devpedrosena1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sena.fxl)
 
 ---
 
@@ -15,7 +23,7 @@ Gosto de criar, testar, errar, aprender e **colocar a mão no código**. Meu foc
 
 ---
 
-<h3 align="center">🧰 Tecnologias que estudo e utilizo</h3>
+<h1 align="center">Tecnologias que estudo e utilizo</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" />
@@ -43,14 +51,6 @@ Projeto que conecta pessoas em situação de vulnerabilidade com empresas e ONGs
 ### 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
-
----
-
-### 🌎 Onde me encontrar
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devpedrosena1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena-a282b01ab/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sena_fxl)
 
 ---
 
