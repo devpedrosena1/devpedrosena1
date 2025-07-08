@@ -40,7 +40,7 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
 
 <h2 align="center">🧰 Hard Skills</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50"/>
