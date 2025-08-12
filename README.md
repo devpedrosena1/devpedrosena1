@@ -2,7 +2,7 @@
   <img src="img.png" alt="Imagem" width="100%"/>
 </p>
 
-<h2 align="center">Java | Spring Boot | Python | SQL</h2>
+<h2 align="center">👋 Olá, Mundo! Seja bem vindo ao meu cantinho de code!</h2>
 
 <div align="center">
 
@@ -20,10 +20,28 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <a href="https://github.com/devpedrosena1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedrosena1&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  </a>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
+---
+
+<h2 align="center">🧰 Hard Skills</h2>
+
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 10px;">
+
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/color/512/spring-logo.png" />
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+
+  
 </p>
 
 ---
@@ -43,23 +61,6 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
   </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">🧰 Hard Skills</h2>
-
-<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 10px;">
-
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/color/512/spring-logo.png" />
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-
-  
-</p>
 
 ---
 
