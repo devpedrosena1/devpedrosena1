@@ -20,6 +20,14 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
+</p>
+
+---
+
 <h2 align="center">👋 Sobre mim</h2>
 
 <table align="center" width="100%" style="border: 10px solid #007acc; border-radius: 10px;">
@@ -41,12 +49,15 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
 <h2 align="center">🧰 Hard Skills</h2>
 
 <p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
-  <img src="https://img.icons8.com/color/512/spring-logo.png" title="Spring" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="Sql" width="50"/>
+
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/color/512/spring-logo.png" />
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+
   
 </p>
 
@@ -82,12 +93,6 @@ Gosto de criar, testar, errar e evoluir com cada linha de código. Meu objetivo 
 </div>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosena1&theme=tokyonight&layout=compact" />
-</p>
 
 ---
 
