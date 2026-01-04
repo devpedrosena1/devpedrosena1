@@ -1,4 +1,6 @@
 [![I'm](https://skillicons.dev/icons?i=devto)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-sena/)
+
 <p>👨‍💻Backend Developer focused on <strong>Java</strong> and its ecosystem.</p>
 
 <p>🎓Technology student at @FIAP.</p>
