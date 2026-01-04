@@ -1,5 +1,7 @@
-[![I'm](https://skillicons.dev/icons?i=devto)](https://skillicons.dev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-sena/)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/devpedrosena1)
+[![YouTube](https://raw.githubusercontent.com/devpedrosena1/devpedrosena1/refs/heads/main/icons/yt.svg)](https://www.youtube.com/@senaadev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/devpedrosena1)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-sena)
 
 <p>👨‍💻Backend Developer focused on <strong>Java</strong> and its ecosystem.</p>
 
