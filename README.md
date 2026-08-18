@@ -1,21 +1,19 @@
-[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/devpedrosena1)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/devpedrosena1)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-sena)
-<br>
-<p>🎓Technology student at @FIAP.</p>
-<br>
+## Pedro Henrique Sena
 
-[![YouTube](https://raw.githubusercontent.com/devpedrosena1/devpedrosena1/refs/heads/main/icons/yt.svg)](https://www.youtube.com/@senaadev)
-<p>Algum dia eu abro live :)</p> 
+Hello, my name is Pedro Henrique Sena, I'm a brazilian technology student at [FIAP](https://www.fiap.com.br) with a strong interest in backend development and cloud computing.
 
+I publish my content on my YouTube channel [Sena DEV](https://www.youtube.com/@senaadev), and share tech on [Dev.to](https://dev.to/devpedrosena1).
 
+[![SUBSCRIBE](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyVjCn2LHImr0ZXL4BpOMug?color=000000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/@senaadev?sub_confirmation=1)
+[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/devpedrosena1?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/devpedrosena1?tab=followers)
+[![STARS](https://custom-icon-badges.demolab.com/github/stars/devpedrosena1?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/devpedrosena1?tab=repositories&sort=stargazers)
 
-<hr>
+#### Technologies and tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,react,python,postgresql,mysql,docker,azure,linux)](https://skillicons.dev)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpedrosena1/devpedrosena1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpedrosena1/devpedrosena1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devpedrosena1/devpedrosena1/output/github-contribution-grid-snake.svg">
-</picture>
+#### Socials
+
+[![LINKEDIN](https://img.shields.io/badge/Pedro%20Henrique%20Sena-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sena)
+[![DEVTO](https://img.shields.io/badge/devpedrosena1-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/devpedrosena1)
+[![YOUTUBE](https://img.shields.io/badge/Sena%20DEV-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@senaadev)
